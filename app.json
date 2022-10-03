@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "ProjectMap_Test",
+    "slug": "ProjectMap_Test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "a.a.a"
+    }
+  }
+}
